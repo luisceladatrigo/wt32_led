@@ -1,3 +1,5 @@
+[![CI](https://github.com/luisceladatrigo/wt32_led/actions/workflows/ci.yml/badge.svg)](https://github.com/luisceladatrigo/wt32_led/actions/workflows/ci.yml)
+
 # ESP32 Client
 
 Mini cliente Flask + SDK para controlar el LED RGB de un ESP32-S3-ETH (W5500).
@@ -15,3 +17,4 @@ python run.py
 ```
 
 Abre http://localhost:5000 en tu navegador.
+
